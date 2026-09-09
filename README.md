@@ -2,118 +2,160 @@
 
 Claude writes fine. It just does not write like you. This fixes that.
 
-You do not need to know how to code. Nothing here needs installing. You download a
-file, upload it into Claude, and switch it on.
+No coding. Nothing to install. You download a file, upload it into Claude, and turn
+it on. If you can attach a photo to an email, you can do this.
+
+Works on free, Pro and Max.
 
 ## What is in here
 
-**`build-my-voice`** - the done for you version. You give Claude your writing, it
-finds your patterns, argues with you about them, and hands you a finished voice
-profile ready to upload. Start here.
+**`build-my-voice`** - the done for you version. You hand Claude your own writing.
+It works out how you write, checks it with you, then writes your voice file for you.
+Start here.
 
-**`my-voice-template`** - the blank version. Same file, empty, if you would rather
-fill it in yourself.
+**`my-voice-template`** - the blank version. The same file, empty, if you would
+rather fill it in yourself.
 
-Both work on free, Pro and Max.
+## What a "skill" is
 
-## Before anything else
+A skill is a set of instructions you give Claude once, and it remembers them in
+every chat. That is all. You upload it as a file, flick a switch, and it is on.
 
-Turn on file creation, or none of this will show up.
+## Step 1: turn on file creation
 
-1. Open Claude, go to **Settings**
-2. Go to **Capabilities**
-3. Turn on **code execution and file creation**
+Claude hides the Skills section until you do this.
 
-## The done for you version
+1. Open Claude
+2. Click your name at the bottom left, then **Settings**
+3. Click **Capabilities**
+4. Turn on **code execution and file creation**
 
-### 1. Download it
+## Step 2: download the file
 
-Open the `download` folder above, click `build-my-voice.zip`, then click the
-download button on the right. Do not unzip it.
+1. Click the **download** folder at the top of this page
+2. Click **build-my-voice.zip**
+3. Click the download button (it looks like an arrow pointing down)
 
-### 2. Upload it into Claude
+Leave the zip alone. Do not open it or unzip it. Claude wants it exactly as it is.
 
-1. Go to **Customize**, then **Skills**
-2. Click the **+** or add button, then **upload a skill**
-3. Choose the zip you just downloaded
-4. Switch it on
+## Step 3: put it into Claude
 
-### 3. Gather your writing
+1. In Claude, click your name at the bottom left, then **Customize**
+2. Click **Skills**
+3. Click the **+** button, then **Create skill**, then **Upload a skill**
+4. Choose the zip you just downloaded
+5. Make sure the switch next to it is on
+
+That is the setup done. You never have to do this part again.
+
+## Step 4: gather your writing
 
 Find three to five pieces you actually wrote and finished. Published posts, emails
-you are proud of, something nobody ever saw. Around 2,000 words in total is plenty,
-more is better.
+you are proud of, something nobody ever saw. Around 2,000 words in total is plenty.
+More is better.
 
 Two rules:
 
 - Finished writing only. Not notes, not half drafts.
-- Mix it up. Something angry, something practical, something you wrote for one person.
+- Mix it up. Something personal, something practical, and something you wrote for
+  one particular person.
 
 Then the part most people skip. Record yourself talking for five minutes about
-anything you care about. Voice memo on your phone. Your spoken voice is looser than
-your written one, and that gap is where the good stuff lives.
+anything you care about. Just the voice memo app on your phone. You talk differently
+from how you write, and the difference between the two is where your voice actually
+lives.
 
-### 4. Start a fresh chat
+Put it all somewhere you can copy from, or save it as one document.
 
-A brand new one, so nothing from your old chats bleeds in.
+## Step 5: open a new chat and ask
 
-Paste or attach your writing and your recording, and say:
+Start a **brand new chat**. A fresh one, so nothing from your old chats gets mixed in.
+
+Paste your writing in, or attach it using the paperclip. Attach the voice memo too,
+or paste the transcript if you have one.
+
+Then type:
 
 > Build my voice.
 
-The skill takes it from there. It will ask you for the bits it needs, show you what
-it found, and make you argue with it before it writes anything.
+That is it. There is no menu to pick from and no button to press. Claude sees the
+skill is switched on, notices that this is what you are asking for, and starts
+running it.
 
-### 5. Argue with it
+If it ignores the skill and just chats at you, say this instead:
 
-Do not skip this part. Claude is reading five pieces of writing, not your whole life.
-Some of what it says will be right in a way that makes you uncomfortable. Some of it
-will be plain wrong.
+> Use my build-my-voice skill.
 
-Read it out loud and say so:
+Naming it out loud always works.
 
-> The part about short paragraphs is right. The part about me asking rhetorical
-> questions isn't, I do that when I talk, not when I write. Take it out. Also add:
-> I never start a sentence with "because".
+From there Claude asks you for anything it still needs and walks you through it.
 
-Keep going until it matches what you know about yourself.
+## Step 6: argue with what it tells you
 
-### 6. Upload the file it makes you
+This is the step that makes the difference, and it is the one people skip.
 
-You will get a zip called `my-voice.zip`. Same upload steps as above. Customize,
-Skills, add, upload, switch on.
+Claude will come back with a page describing how you write. Some of it will be right
+in a way that makes you a bit uncomfortable. Some of it will be plain wrong. It has
+read five pieces of your writing, not your whole life.
 
-### 7. Test it against itself
+Read it out loud. Then say what is wrong, in normal words:
 
-Ask Claude to write the same thing twice. Once with your skill on, once with it off.
-A short post, an email, whatever you write most.
+> The bit about short paragraphs is right. The bit about me asking questions isn't,
+> I do that when I talk, not when I write. Take it out. Also add: I never start a
+> sentence with "because".
+
+Keep going until it sounds like you. Two or three rounds is normal.
+
+## Step 7: upload the file it gives you
+
+When you are happy, Claude writes the file and hands you a zip called `my-voice.zip`.
+
+Download it, then do **Step 3** again with this new zip. Customize, Skills, +,
+Create skill, Upload a skill, switch it on.
+
+Now every time you ask Claude to write something, it writes it your way.
+
+## Step 8: check it actually worked
+
+Ask Claude to write the same thing twice. Once with your skill switched on, once
+with it off. A short post, an email, whatever you write most.
 
 Read both out loud. You will hear it straight away.
 
-If the skill version still sounds like a LinkedIn post, the file is too vague. Open
-it and get specific. "Shorter sentences" does nothing. "Most sentences under 12
-words, one long messy one every paragraph" does.
+If the one with your skill on still sounds like a LinkedIn post, your file is too
+vague. Open it and get specific. "Shorter sentences" tells Claude nothing. "Most
+sentences under 12 words, one long messy one every paragraph" tells it everything.
 
-## The fill it in yourself version
+## If something goes wrong
 
-Download `my-voice-template.zip` from the `download` folder, unzip it, open
-`SKILL.md` in any text editor, and replace everything in square brackets with your
-own answers. Save, zip the `my-voice` folder back up, upload it the same way.
+**I can't find Skills anywhere.** Step 1 is not done. Turn on code execution and
+file creation in Settings, Capabilities.
 
-Ten minutes if you already know how you write.
-
-## If the upload fails
-
-The folder inside the zip has to be named the same as the skill, and the file inside
-that folder has to be called `SKILL.md`. Exactly that, capital letters included.
+**The upload was rejected.** The zip has to hold one folder, and that folder has to
+hold one file called `SKILL.md`, spelled exactly like that with the capitals. Like
+this:
 
     my-voice/
       SKILL.md
 
-If your zip looks different, that is the problem.
+If your zip looks different, that is the problem. Ask Claude to rebuild it.
+
+**Claude is ignoring my skill.** Check the switch next to it is on, then say
+"Use my build-my-voice skill" in the chat.
+
+**It sounds like me but a bit dead.** You probably skipped the voice memo. Go back
+and add it. It matters more than the writing samples.
+
+## The fill it in yourself version
+
+Download `my-voice-template.zip` from the **download** folder, unzip it, and open
+`SKILL.md` in any text editor. Replace everything inside square brackets with your
+own answers. Save it, zip the `my-voice` folder back up, and upload it the same way.
+
+Ten minutes, if you already know how you write.
 
 ## Keeping it good
 
-A voice profile built from five pieces is a starting point, not a finished thing.
-Every few months, hand Claude your newest writing and ask it to update the file.
-The profile should follow your writing, not the other way round.
+A voice file built from five pieces is a starting point, not a finished thing. Every
+few months, hand Claude your newest writing and ask it to update the file. Your
+voice moves. The file should follow it.

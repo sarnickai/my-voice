@@ -19,7 +19,8 @@ proud of, something nobody ever saw. Around 2,000 words total, more is better.
 Two rules to tell them:
 
 - Finished writing only. Not notes, not half drafts.
-- Mix it up. Something angry, something practical, something written for one person.
+- Mix it up. Something personal, something practical, something written for one
+  particular person.
 
 **A transcript of them talking.** Five minutes, voice memo on their phone, about
 anything they care about. They paste it in or attach it. Their spoken voice is
@@ -105,13 +106,15 @@ Nothing else. Zip the folder, not the file.
     my-voice/
       SKILL.md
 
-Give them the zip to download, then these steps:
+Give them the zip to download, then these steps, written plainly. Assume they have
+never done this before:
 
-1. Settings, then Capabilities, then turn on code execution and file creation.
-   Skills do not appear without it.
-2. Customize, then Skills.
-3. Click add, then upload a skill.
-4. Upload the zip and switch it on.
+1. Download the zip. Do not open it or unzip it.
+2. Click your name at the bottom left, then Customize, then Skills.
+3. Click the + button, then Create skill, then Upload a skill.
+4. Choose the zip and make sure the switch next to it is on.
+5. Start a new chat and ask for something you write often. Claude picks the skill up
+   on its own. If it does not, say "use my my-voice skill".
 
 ## Step 6: make them test it
 
