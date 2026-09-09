@@ -74,21 +74,21 @@ Start a **brand new chat**. A fresh one, so nothing from your old chats gets mix
 Paste your writing in, or attach it using the paperclip. Attach the voice memo too,
 or paste the transcript if you have one.
 
-Then type:
-
-> Build my voice.
-
-That is it. There is no menu to pick from and no button to press. Claude sees the
-skill is switched on, notices that this is what you are asking for, and starts
-running it.
-
-If it ignores the skill and just chats at you, say this instead:
+Then type this:
 
 > Use my build-my-voice skill.
 
-Naming it out loud always works.
+Say the name out loud like that and it works every time. You can just type "build my
+voice" and Claude will usually pick it up on its own, but naming it takes the guessing
+out.
 
-From there Claude asks you for anything it still needs and walks you through it.
+If your Claude shows a menu of your skills when you type `/`, you can choose it from
+there instead. Same result.
+
+You will know it worked because Claude starts asking you questions instead of writing
+something. From there it walks you through the rest.
+
+If it ignores you and just chats, check the switch next to the skill is still on.
 
 ## Step 6: argue with what it tells you
 
